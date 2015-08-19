@@ -1,2 +1,1 @@
-# Windows
-windowsのメモ
+memo
